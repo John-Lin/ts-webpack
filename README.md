@@ -9,7 +9,7 @@ $ npm install -g webpack
 
 ## Install develop tool
 ```
-$ npm install --save-dev typescript awesome-typescript-loader source-map--loader
+$ npm install --save-dev typescript awesome-typescript-loader source-map-loader
 ```
  
 ### Install dependencies
